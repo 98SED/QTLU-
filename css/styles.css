@@ -1,0 +1,53 @@
+  body {
+    background-color: #eeeeee;
+  }
+
+  hr {
+    border-style: none;
+    height: 2px;
+    width: 20%;
+    background-color: #79e4f2;
+  }
+
+  .idealeshr {
+    border-style: dotted none none none;
+    border-top-width: 5px;
+    width: 10%;
+    border-color: #79e4f2;
+    background-color: rgba(0, 0, 0, 0);
+  }
+
+  .imglogo {
+    text-align: center;
+  }
+
+  .puesto {
+    text-align: center;
+  }
+
+  .tablecenter{
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .version{
+    text-align: right;
+  }
+  .aviso{
+    color: darkred;
+    font-weight: bolder;
+  }
+
+  h1 {
+    color: #000000;
+    text-align: center;
+  }
+
+  h2 {
+    color: #2ebbf2;
+    text-align: center;
+  }
+
+  h3 {
+    color: #2ebbf2;
+    text-align: center;
+  }
