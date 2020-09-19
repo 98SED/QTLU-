@@ -1,0 +1,134 @@
+body{
+    background-color: #FFF8F2;
+    margin: 0px;
+    margin-top: 0px;
+}
+hr{
+    width: 20%;
+    border: none;
+    border-top: solid #666666 1px;
+}
+.hr_punteado{
+    border-top: dotted;
+    border-width: 5px;
+    width: 10%;
+}
+#menu_principal{
+    background-color: #2EBBF2;
+}
+.menu_principal{
+    display: inline-block;
+    list-style: none;
+    margin: 0px;
+    padding: 0px; 
+}
+#titulo{
+    color: white;
+    padding: 20px;
+    margin: 0px;
+}
+.menu_li_texto{
+    display: inline-block;
+    border-left: solid white;
+}
+.menu_a{
+    text-decoration: none;
+    color: white;
+}
+.menu_bullets{
+    display: inline-block;
+    padding: 20px;
+    border-left: solid white;
+
+}
+.menu_bullets:hover{
+    display: inline-block;
+    padding: 20px;
+    background-color: #238bb4;
+}
+
+#p_version{
+    padding: 20px;
+    margin: 0px;
+
+}
+#estilo_version{
+    font-weight: bold;
+}
+#aviso{
+    background-color: #ffcb59;
+    padding: 10px;
+    text-align: center;
+    border-top: dashed 5px;
+    border-bottom: dashed 5px;
+}
+#h2_aviso{
+    margin-top: 0px;
+    display: inline-block;
+    color: #000000;
+    font-weight: bolder;
+    margin-bottom: 0px;
+}
+#p_aviso{
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 0px;
+    font-weight: bolder;
+    color: #3d3d3d;
+}
+#intro{
+    text-align: center;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+#logo{
+    width: 500px;
+}
+#intro_p{
+    font-size: 1.2em;
+}
+#novedades{
+
+}
+#novedades_h2{
+    margin-bottom: 10px;
+}
+.novedades_h3{
+    margin: 0px;
+}
+#articulos{
+    background-color: #79E4F2;
+    margin: 0px;
+}
+#podcasts{
+    background-color: #44B955;
+    margin: 0px;
+}
+#videos{
+    background-color: #FB4443;
+    margin: 0px;
+}
+#equipo{
+    background-color: #79E4F2;
+    text-align: center;
+    padding: 10px;
+}
+#equipo_h2{
+    margin: 0px;
+}
+#equipo_tabla{
+    margin-left: auto;
+    margin-right: auto;
+}
+.equipo_img{
+    width: 250px;
+}
+.equipo_h3{
+    margin: 0px;
+    padding: 0px;
+}
+.equipo_p{
+    margin: 0px;
+    padding: 0px;
+    font-style: italic;
+}
